@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mera Sorte</string>
+    <string name="mega_sena">Mega-Sena</string>
+    <string name="quina">Quina</string>
+    <string name="loto_facil">Loto Fácil</string>
+    <string name="loto_mania">Loto Mania</string>
+    <string name="todo">TODO</string>
+    <string name="titulo_ver_resultado">Os numeros da sorte da</string>
+    <string name="aviso_snackbar">Valor não encontrado!</string>
+    <string name="entrar">Entrar</string>
+    <string name="titulo_menu_opcao">Faça a sua escolha e tenha sorte.</string>
+</resources>
